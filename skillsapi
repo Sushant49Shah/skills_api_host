@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "icon": "https://img.icons8.com/fluency/96/c-programming.png",
+    "name": "C Programming",
+    "emoji": "https://img.icons8.com/emoji/48/smiling-face-with-sunglasses.png",
+    "descrip": "C is my first programming language. I've achieved a commendable 70% proficiency in C programming, encompassing key concepts like data structures and memory management. Eager to deepen my knowledge, I'm dedicated to ongoing learning, aiming for mastery in this versatile language.",
+    "progress": "70%"
+  },
+  {
+    "id": "2",
+    "icon": "https://img.icons8.com/color/96/html-5--v1.png",
+    "name": "HTML",
+    "emoji": "https://img.icons8.com/emoji/48/smiling-face-with-sunglasses.png",
+    "descrip": "Along C, HTML was also my first programming langauge. I've attained a strong 90% proficiency in HTML, covering fundamental elements and advanced features. From crafting responsive layouts to optimizing code, my expertise reflects a deep understanding of web development. Continuing to explore, I'm committed to reaching mastery in HTML.",
+    "progress": "90%"
+  },
+  {
+    "id": "3",
+    "icon": "https://img.icons8.com/color/96/css3.png",
+    "name": "CSS",
+    "emoji": "https://img.icons8.com/emoji/48/grinning-face-with-big-eyes--v2.png",
+    "descrip": "I've achieved a solid 60% proficiency in CSS, mastering fundamental styling techniques and layout principles. From responsive design to animation, my expertise spans key aspects of web styling. Eager to enhance my skills, I'm dedicated to continuous learning for a more comprehensive understanding of CSS.",
+    "progress": "60%"
+  },
+
+  {
+    "id": "4",
+    "icon": "https://img.icons8.com/color/96/python--v1.png",
+    "name": "Python",
+    "emoji": "https://img.icons8.com/emoji/48/sneezing-face.png",
+    "descrip": "I've acquired the fundamentals of Python and am enthusiastically engaged in ongoing learning. Committed to expanding my Python proficiency, I'm actively pursuing knowledge to enhance my programming skills and tackle more advanced concepts in this versatile language.",
+    "progress": "10%"
+  },
+
+  {
+    "id": "5",
+    "icon": "https://img.icons8.com/color/96/javascript--v1.png",
+    "name": "JavaScript",
+    "emoji": "https://img.icons8.com/emoji/48/slightly-smiling-face.png",
+    "descrip": "I am in the process of learning JavaScript, having covered the basics and currently delving into advanced concepts. Committed to mastering the intricacies of JS, I am exploring advanced topics to deepen my understanding and proficiency.",
+    "progress": "40%"
+  },
+
+  {
+    "id": "6",
+    "icon": "https://img.icons8.com/ios/100/000000/react-native--v1.png",
+    "name": "React JS",
+    "emoji": "https://img.icons8.com/emoji/48/slightly-smiling-face.png",
+    "descrip": "I'm in the process of learning React.js, having created simple websites. While I've begun exploring advanced React concepts, my focus has shifted to Next.js. Excited about this transition, I'm eager to enhance my skills in building dynamic and performant web applications.",
+    "progress": "45%"
+  },
+
+  {
+    "id": "7",
+    "icon": "https://img.icons8.com/fluency/96/nextjs.png",
+    "name": "Next JS",
+    "emoji": "https://img.icons8.com/emoji/48/sneezing-face.png",
+    "descrip": "I've recently embarked on learning Next.js, leveraging my familiarity with React.js to create basic websites. While I've initiated the learning process, I'm yet to delve into the advanced aspects of Next.js. Excited about the journey ahead, I'm eager to deepen my expertise.",
+    "progress": "30%"
+  },
+
+  {
+    "id": "8",
+    "icon": "https://img.icons8.com/color/96/tailwindcss.png",
+    "name": "Tailwind CSS",
+    "emoji": "https://img.icons8.com/emoji/48/winking-face.png",
+    "descrip": "While learning React, I discovered Tailwind CSS and adopted it as my preferred CSS framework. Since then, I've integrated Tailwind into my websites, finding its utility and efficiency a valuable asset in streamlining my styling workflow.",
+    "progress": "60%"
+  },
+
+  {
+    "id": "9",
+    "icon": "https://img.icons8.com/officel/80/php-logo.png",
+    "name": "PHP",
+    "emoji": "https://img.icons8.com/emoji/48/sneezing-face.png",
+    "descrip": "I've initiated my PHP learning journey in college, currently grasping the basics with around 30% proficiency. Committed to expanding my knowledge, I'm engaged in the learning process to build a strong foundation in PHP development.",
+    "progress": "30%"
+  },
+  {
+    "id": "10",
+    "icon": "https://img.icons8.com/color/96/mysql-logo.png",
+    "name": "MySQL",
+    "emoji": "https://img.icons8.com/emoji/48/face-with-tongue.png",
+    "descrip": "I've recently begun learning MySQL in college, acquiring foundational knowledge at approximately 40%. Committed to furthering my understanding, I'm actively engaged in the learning process to master database management and optimization with MySQL.",
+    "progress": "40%"
+  },
+  {
+    "id": "11",
+    "icon": "https://img.icons8.com/color/96/nodejs.png",
+    "name": "NodeJs",
+    "emoji": "https://img.icons8.com/emoji/48/sneezing-face.png",
+    "descrip": "Initially, I chose Node.js as my first backend language but found it challenging. Opting to prioritize frontend development, I temporarily set aside Node.js. Despite the initial difficulty, I remain open to revisiting backend learning in the future.",
+    "progress": "10%"
+  },
+  {
+    "id": "12",
+    "icon": "https://img.icons8.com/color/96/c-plus-plus-logo.png",
+    "name": "C++",
+    "emoji": "https://img.icons8.com/emoji/48/sad-but-relieved-face.png",
+    "descrip": "I recognize C++ shares similarities with C. While I've experimented with some programs, I haven't formally learned C++. Eager for the future, I plan to delve into C++ and deepen my programming skills.",
+    "progress": "5%"
+  },
+  {
+    "id": "13",
+    "icon": "https://img.icons8.com/fluency/96/typescript--v1.png",
+    "name": "TypeScript",
+    "emoji": "https://img.icons8.com/emoji/48/crying-face.png",
+    "descrip": "Although TypeScript is mandatory for Next.js, I'm currently not using it. However, I am open to learning TypeScript if the need arises in the future to enhance my Next.js projects.",
+    "progress": "0%"
+  },
+  {
+    "id": "14",
+    "icon": "https://img.icons8.com/color/96/mongodb.png",
+    "name": "MongoDB",
+    "emoji": "https://img.icons8.com/emoji/48/face-with-head-bandage.png",
+    "descrip": "I currently have no knowledge of MongoDB but remain open to learning it in the future if the need arises or as part of my ongoing skill development.",
+    "progress": "0%"
+  },
+
+  {
+    "id": "15",
+    "icon": "https://img.icons8.com/ios-filled/100/000000/database.png",
+    "name": "Database",
+    "emoji": "https://img.icons8.com/emoji/48/face-with-monocle.png",
+    "descrip": "I currently have not much knowledge of database but remain open to learning it in the future if the need arises or as part of my ongoing skill development.",
+    "progress": "0%"
+  },
+  {
+    "id": "16",
+    "icon": "https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png",
+    "name": "Java",
+    "emoji": "https://img.icons8.com/emoji/48/zipper-mouth-face.png",
+    "descrip": "In my view, Java appeared challenging due to its syntax. Despite this, I've committed to learning it thoroughly after completing +2, opting for guided learning with a teacher to ensure a comprehensive and precise understanding of the language.",
+    "progress": "0%"
+  }
+]
