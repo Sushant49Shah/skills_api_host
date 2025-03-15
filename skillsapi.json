@@ -133,5 +133,13 @@
     "emoji": "https://img.icons8.com/emoji/48/zipper-mouth-face.png",
     "descrip": "In my view, Java appeared challenging due to its syntax. Despite this, I've committed to learning it thoroughly after completing +2, opting for guided learning with a teacher to ensure a comprehensive and precise understanding of the language.",
     "progress": "0%"
+  },
+  {
+    "id": "17",
+    "icon": "https://img.icons8.com/color/96/django.png",
+    "name": "Django",
+    "emoji": "https://img.icons8.com/emoji/48/zipper-mouth-face.png",
+    "descrip": "I’m learning Django as my primary backend framework and aiming to master it soon. With strong frontend skills, I want to build scalable full-stack applications. My projects, like Ragat Sewa, reflect my passion for impactful tech. I’m excited to enhance my backend expertise in APIs, databases, and server-side logic.",
+    "progress": "0%"
   }
 ]
